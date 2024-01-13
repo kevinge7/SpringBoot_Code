@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.graphql:spring-graphql-test:1.2.4" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.springframework.graphql" artifactId="spring-graphql-test" version="1.2.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/graphql/spring-graphql-test/1.2.4/spring-graphql-test-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/graphql/spring-graphql-test/1.2.4/spring-graphql-test-1.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/graphql/spring-graphql-test/1.2.4/spring-graphql-test-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
